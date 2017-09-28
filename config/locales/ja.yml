@@ -1,0 +1,5 @@
+ja:
+  notice_unable_to_obtain_google_credentials: "Googleから資格情報を取得できません。"
+  notice_domain_not_allowed: "％{domain}ドメインを使用してログインすることはできません。"
+  notice_access_denied: "このサイトに入るには、Googleの認証情報を使用することを許可する必要があります。"
+  login_via_google: "Googleでログイン"
